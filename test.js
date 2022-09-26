@@ -1,4 +1,4 @@
-// first NodeJS application 
+// first cloned NodeJS application 
 
 const express = require('express')
 const app = express()
